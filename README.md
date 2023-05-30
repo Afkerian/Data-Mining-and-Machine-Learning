@@ -7,7 +7,9 @@ Data Mining and Machine Learning
 
 2. Crea un nuevo entorno virtual para tu proyecto. Abre una terminal y ejecuta el siguiente comando:
 
-`python -m venv enviroment/`
+    ```
+    python -m venv enviroment/
+    ```
 
 Esto creará un nuevo entorno virtual con el nombre que elijas.
 
@@ -33,7 +35,9 @@ Al activar el entorno virtual, tu terminal mostrará el nombre del entorno entre
 
 2. Ejecuta el siguiente comando para instalar los requisitos desde el archivo `requirements.txt`:
 
-`pip install -r requirements.txt`
+    ```
+    pip install -r requirements.txt
+    ```
 
 Esto instalará todas las dependencias especificadas en el archivo `requirements.txt` en tu entorno virtual.
 
