@@ -6,3 +6,5 @@ nbmanips
 pyreadr
 seaborn
 scipy
+torch
+torchvision
